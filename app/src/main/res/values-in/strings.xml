@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Movie Catalogue API</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvshow_name">Judul Tayangan TV</string>
+    <string name="tvshow_description">Deskripsi Tayangan TV</string>
+    <string name="tvshow_photo">Gambar Tayangan TV</string>
+    <string name="movies_name">Judul Film</string>
+    <string name="movies_description">Deskripsi Film</string>
+    <string name="movies_photo">Gambar Film</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+</resources>
